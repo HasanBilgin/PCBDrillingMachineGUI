@@ -1,0 +1,31 @@
+.dragicon {
+    -fx-background-radius: 10;
+}
+
+.icon-blue {
+    -fx-background-image: url("Icons/transistor.png");
+}
+
+.icon-red {
+    -fx-background-image: url("Icons/resistor.png");
+}
+
+.icon-green {
+    -fx-background-image: url("Icons/diodes.png");
+}
+
+.icon-black {
+    -fx-background-image: url("Icons/capasitor.png");
+}
+
+.icon-grey {
+    -fx-background-image: url("Icons/ic.png");
+}
+
+.icon-yellow {
+    -fx-background-image: url("Icons/transformer.png");
+}
+
+.icon-purple {
+    -fx-background-image: url("Icons/led.png");
+}
